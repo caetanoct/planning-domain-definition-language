@@ -15,9 +15,9 @@ vehicle won't pick it up.
 
 There are two problems related to this domain:
 
-- [different-sizes](https://github.com/NeoVier/PDDLExamples/blob/main/delivery-drivers/different-sizes.pddl)
+- [different-sizes](https://github.com/caetanoct/AI-assignment/blob/main/delivery-drivers/different-sizes.pddl)
 deals with multiple vehicles that can carry different-sized cargos, and travel
 different lengths.
-- [different-locations](https://github.com/NeoVier/PDDLExamples/blob/main/delivery-drivers/different-locations.pddl)
+- [different-locations](https://github.com/caetanoct/AI-assignment/blob/main/delivery-drivers/different-locations.pddl)
 deals with multiple locations, simulating an airplane that can go to set
 destinations, and needs to deliver cargo around the world.
